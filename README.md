@@ -58,11 +58,3 @@ We take the following approach to find relevant tags:
 These relevant tags are checked in video title, if title does not include any of these words but includes the tag, we mark it as possible misuse. To see the performance of this approach, we manually label a portion of this data for the tag "trump". Among all randomly selected 613 videos, 59.2% were labeled as misuse, 19.6% as Related and 21.2% as N/A. If we exclude N/A, 75.2% of the videos would fall under the category of misuse. Sports category for example has a misuse rate of 84.2%, which can be considered high. Our manual labeling can be found [here](https://docs.google.com/spreadsheets/d/1cK55fl4xL9sktpDxsKsMGiQ0cb6Nw_bDg4K7s_CbfGE/edit?usp=sharing).
 
 ![Label](https://raw.githubusercontent.com/epfl-ada/ada-2022-project-stuckoverflow/main/figures/total_labeling.PNG)
-
-## Proposed Timeline & Task Delivery Dates
-* 18/11/2022 - Deliver Milestone 2
-* 27/11/2022 - Implement Clustering on Tags
-* 05/12/2022 - Perform Popularity and Centrality Analysis
-* 10/12/2022 - Create Graph Visualizations
-* 21/12/2022 - Data Story and Page Design
-* 23/12/2022 - Deliver Milestone 3
