@@ -66,9 +66,3 @@ These relevant tags are checked in video title, if title does not include any of
 * 10/12/2022 - Create Graph Visualizations
 * 21/12/2022 - Data Story and Page Design
 * 23/12/2022 - Deliver Milestone 3
-
-## Team Organisation 
-- Berkay Doner: Popularity analysis, page design
-- Elif Sema Balcioglu: Misuse and centrality analysis, page design
-- Iman Najwa Binti Masrun: Data story, page design
-- Germain Vu: Website maintenance, page design
